@@ -250,7 +250,7 @@ jiren = `
 亗├ • ${prefix}restart ( untuk restart )
 亗├──────────────────┈
 亗├ 「pricelist bot lain」
-亗├ BISA KUNJUNGI WEB https://lynk.id/bugbotshop
+亗├ BISA KUNJUNGI WEB https://linktree.com/TukangBotWA
 亗├──────────────────┈
 `
 diablobotwhatsapp.reply(jiren)
